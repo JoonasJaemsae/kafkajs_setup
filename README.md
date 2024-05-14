@@ -42,7 +42,7 @@ The latter will start listening on the producer.
 
 ### List all topics
 
-bin/kafka-topics.sh --bootstrap-server localhost:9092 --list
+``bin/kafka-topics.sh --bootstrap-server localhost:9092 --list``
 
 ### List and view information about created topics
 
