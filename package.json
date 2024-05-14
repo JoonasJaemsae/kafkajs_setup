@@ -1,0 +1,26 @@
+{
+  "name": "kafkajs_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoonasJaemsae/kafkajs_practice.git"
+  },
+  "author": "Joonas Jämsä",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoonasJaemsae/kafkajs_practice/issues"
+  },
+  "homepage": "https://github.com/JoonasJaemsae/kafkajs_practice#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "kafkajs": "^2.2.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
