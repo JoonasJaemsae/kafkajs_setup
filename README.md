@@ -1,4 +1,6 @@
-# KafkaJS Practice with Zookeeper
+# KafkaJS Setup with Zookeeper
+
+This repository details how to run a KafkaJS app and introduces some commands to play around with it.
 
 ## Installing dependencies
 
@@ -64,7 +66,7 @@ When you are done and want to start fresh the next time, disable the running ins
 
 `rm -rf /tmp/kafka-logs /tmp/zookeeper /tmp/kraft-combined-logs`
 
-To delete all topics on Windows in a bulk, remove the contents of the folder ``C:\tmp``.
+To delete all topics on Windows in a bulk, delete the contents of the folder ``C:\tmp``.
 
 ## References:
 
